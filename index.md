@@ -7,3 +7,13 @@ full-width: true
 
 
 Adding some text here to see what happens
+
+### What we do
+
+
+### The team
+
+
+### Projects
+
+
