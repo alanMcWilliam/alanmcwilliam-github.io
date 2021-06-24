@@ -1,6 +1,6 @@
 ---
 layout: home
-title: <div align="left"> Alan McWilliam's website
+title: <p align="left"> Alan McWilliam's website
 subtitle: Testing, what's happening in my research group
 full-width: true
 ---
