@@ -13,7 +13,7 @@ Adding some text here to see what happens
 
 ### The team
 
-![alan](/assets/img/bioPic.jpg)
+![alan](/assets/img/bioPic.jpg =250x250)
 
 ### Projects
 
