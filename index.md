@@ -13,7 +13,7 @@ Adding some text here to see what happens
 
 ### The team
 <img src="/assets/img/bioPic.jpg" align="left" width="150px" margin="75px"/>
-<br /><br />Dr Alan McWilliam <br />Honary senior lecturer <br /> me me me me
+<br /><br />   Dr Alan McWilliam <br />   Honary senior lecturer <br />   me me me me
 
 <br clear="left"/>
 <br /><br />
