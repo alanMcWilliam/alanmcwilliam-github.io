@@ -13,7 +13,7 @@ Adding some text here to see what happens
 
 ### The team
 
-!(/assests/Img/Bio pic.jpg)
+![alan](/assests/img/Bio pic.jpg)
 
 ### Projects
 
