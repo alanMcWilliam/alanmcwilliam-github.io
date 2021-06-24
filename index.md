@@ -13,6 +13,7 @@ Adding some text here to see what happens
 
 ### The team
 
+![Crepe](/assests/Bio pic.jpg)
 
 ### Projects
 
