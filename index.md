@@ -13,9 +13,9 @@ Adding some text here to see what happens
 
 ### The team
 
-<img src="/assets/img/bioPic.jpg" alt="Alan"
-	title="Alan" width="150" height="150" />
-
+|||
+|---|---|
+| <img style="float: left;" src="/assets/img/bioPic.jpg" alt="Alan" title="Alan" width="150" height="150" /> | Dr Alan McWilliam <br />Honary senior lecturer |
 
 ### Projects
 
