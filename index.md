@@ -6,4 +6,4 @@ full-width: true
 ---
 
 
-Adding some text here to see what happens......
+Adding some text here to see what happens
