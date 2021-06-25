@@ -20,7 +20,7 @@ Adding some text here to see what happens
 A "newline". This text doesn't float anymore, is left-aligned.
 
 <img src="/assets/img/bioPic.jpg" align="right" width="150px" margin="75px"/>
-<br /><br />   <Div align="right">Dr Alan McWilliam <br />   Honary senior lecturer <br />   me me me me </Div>
+<br /><br />   <div align="right">Dr Alan McWilliam <br />   Honary senior lecturer <br />   me me me me </div>
 
 <br clear="right"/>
 <br /><br />
